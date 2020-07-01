@@ -9,4 +9,4 @@
 
 3. Run tests
 
-`mvn run test`
+`mvn test`
